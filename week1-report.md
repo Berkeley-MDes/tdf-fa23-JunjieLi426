@@ -20,3 +20,4 @@ Helping classmates is important, and I'm committed to it. Aligning personal goal
 
 Tools for learning and working will improve and work better together. Smart technology might personalize learning experiences. As more of us learn and work online, tools for virtual spaces will become more important.
 ![IMG_9427](https://github.com/Berkeley-MDes/tdf-fa23-JunjieLi426/assets/143133588/eda48723-3cb8-4782-8166-defd0201b33f)
+![IMG_1276](https://github.com/Berkeley-MDes/tdf-fa23-JunjieLi426/assets/143133588/31e51356-b024-4657-bc4f-472957c36097)
