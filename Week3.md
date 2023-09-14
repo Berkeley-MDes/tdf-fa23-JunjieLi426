@@ -16,5 +16,6 @@ Watching and following tutorials has proven to be an invaluable part of my learn
 
 One tangible outcome of this learning journey is a file I created while following a specific video tutorial. This file represents a tangible step in my skill development and understanding of the subject matter. It's a testament to the effectiveness of structured learning resources and the progress I've made in preparation for the upcoming project.
 
-![Tutorial File](tutorial-file-url)
+git clone <repository-url>
+
 
