@@ -17,5 +17,10 @@ Watching and following tutorials has proven to be an invaluable part of my learn
 One tangible outcome of this learning journey is a file I created while following a specific video tutorial. This file represents a tangible step in my skill development and understanding of the subject matter. It's a testament to the effectiveness of structured learning resources and the progress I've made in preparation for the upcoming project.
 
 git clone <reppreproject1.ghository-url>
+<img width="1440" alt="Screen Shot 2023-09-10 at 4 10 26 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-JunjieLi426/assets/143133588/ee14daa5-29f1-4f78-a7a3-107c06bc8ae4">
+<img width="1440" alt="Screen Shot 2023-09-10 at 11 18 04 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-JunjieLi426/assets/143133588/4bbcd87f-40de-4764-9ce0-57cf160dc428">
+
+##Project 1
+##Reflection
 
 
