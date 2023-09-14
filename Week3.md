@@ -8,4 +8,4 @@ One key takeaway from the report is the emphasis on the pivotal role of computat
 
 In summary, the Design in Tech Report from 2017 reaffirms that Computational Design is a critical field in today's tech industry, merging technology with design principles to create impactful digital experiences. Key themes include collaboration, user-centered design, and the strategic role of design in shaping the industry's dynamic nature.
 
-![Image Description](https://drive.google.com/file/d/1zrMtGbBFsO3SghTYeKiKOB2V13Pjl-q7/view?usp=drive_link)
+![Image Description]([https://drive.google.com/file/d/1zrMtGbBFsO3SghTYeKiKOB2V13Pjl-q7/view?usp=drive_link](https://github.com/Berkeley-MDes/tdf-fa23-JunjieLi426/blob/main/IMG_0303.JPG?raw=true)https://github.com/Berkeley-MDes/tdf-fa23-JunjieLi426/blob/main/IMG_0303.JPG?raw=true)
