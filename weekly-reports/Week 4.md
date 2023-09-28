@@ -53,11 +53,8 @@ Throughout Project 1, we encountered various challenges and learned important le
 
 These lessons will undoubtedly benefit us in future projects.
 
-### Preparing for Project 2
 
-With Project 1 behind us, it's time to shift our focus to Project 2. Here are some steps we should take to ensure a smooth transition:
-
-### Goals for Next Week
+### Goals for Next Week _porject2
 
 Looking ahead to next week, our primary goals for Project 2 preparation are:
 
