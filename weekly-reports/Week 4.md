@@ -51,32 +51,20 @@ Throughout Project 1, we encountered various challenges and learned important le
 - [Grasshopper, as a parametric design tool, was a revelation. It allowed me to turn my ideas into tangible 3D models efficiently. Creating the foundation, breaking down the design into components, and adding dimension to them were made incredibly smooth through Grasshopper's capabilities. The ability to transition from 2D sketches to 3D objects was nothing short of magical.
 ]
 
-
 These lessons will undoubtedly benefit us in future projects.
 
 ### Preparing for Project 2
 
 With Project 1 behind us, it's time to shift our focus to Project 2. Here are some steps we should take to ensure a smooth transition:
 
-1. **Project 2 Planning**: Begin planning for Project 2 by defining goals, requirements, and milestones. Consider what we've learned from Project 1 to make Project 2 even better.
-
-2. **Team Roles**: Clarify team roles and responsibilities for Project 2 to ensure that everyone knows their tasks and contributions.
-
-3. **Tools and Resources**: Ensure that we have the necessary tools, software, and resources in place for Project 2.
-
-4. **Timeline**: Create a timeline or schedule for Project 2, taking into account any deadlines or client requirements.
-
-5. **Documentation**: Let's continue our good practice of documenting our progress, design decisions, and development process. This documentation helps us stay organized and is useful for future reference.
-
 ### Goals for Next Week
 
 Looking ahead to next week, our primary goals for Project 2 preparation are:
 
 - [learn the what is photon 2:The Photon 2 is a development module with a microcontroller and Wi-Fi networking. The form-factor is similar to the Argon (Adafruit Feather), but the Photon 2 supports 2.4 GHz and 5 GHz Wi-Fi, BLE, and has much larger RAM and flash that can support larger applications.]
-- [Insert Goal 2, e.g., "follow the tutorial "]
+- [follow the tutorial]
 
 I'm excited to see where Project 2 takes us and am confident that we'll build on our successes from Project 1.
 
-Let's keep up the great work, team!
+Let's keep up the great work!
 
-[Your Name]
